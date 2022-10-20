@@ -15,4 +15,4 @@ int main() {
     resultado = fatorial(n);
     printf("\nResultado = %d", resultado);
     return 0;
-}
+} 
